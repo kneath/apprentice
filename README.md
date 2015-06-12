@@ -6,10 +6,11 @@ A little mac app that keeps track of how much you write every day.
 
 Still very much in testing, but you're welcome to try it out (it'll be released for free once it's done). You can find builds in the [releases](https://github.com/kneath/apprentice/releases) section.
 
-## Known Issues / Big Rocks
+## Known Issues
 
 * Not yet hooked into FSEvents, so changes may take up to 20 seconds to display
 * No way to start Apprentice when your computer starts
 * No way to tell if a scan is currently being performed
+* I really don't know what I'm doing
 
 Any other bugs or feedback can be posted in the [Issues](https://github.com/kneath/apprentice/issues) section.
