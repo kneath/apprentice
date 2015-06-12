@@ -11,3 +11,5 @@ Still very much in testing, but you're welcome to try it out (it'll be released 
 * Not yet hooked into FSEvents, so changes may take up to 20 seconds to display
 * No way to start Apprentice when your computer starts
 * No way to tell if a scan is currently being performed
+
+Any other bugs or feedback can be posted in the [Issues](https://github.com/kneath/apprentice/issues) section.
